@@ -1,0 +1,12 @@
+{
+    "roles": [
+        {
+            "name": "MotorR",
+            "service": 385895640
+        },
+        {
+            "name": "MotorL",
+            "service": 385895640
+        }
+    ]
+}
